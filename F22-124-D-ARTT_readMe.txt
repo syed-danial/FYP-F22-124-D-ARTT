@@ -1,0 +1,9 @@
+Our Final Year Project is based on development of augmented reality table tennis android game. In this game, the user will have experience to compete against Artificial Intelligent (AI) bot, which will be playing by using machine learning techniques and can also challenge their friend for multiplayer. The other important implementation includes the real-time tracking of ball, along with variety of movements and interactions without delay.
+
+Due to the nature of the game of table tennis that cannot be enjoyed alone, rehabilitation patients rely on another player that fires a ball and enjoy playing table tennis against it. So, the basic concept is to develop the Augmented Reality game so, the effort would be less for space and motion. Having game opponent unpredicted and challenging, while having precise accuracy using machine learning techniques. 
+Three elements make up augmented reality (AR): a fusion of the digital and physical worlds, in-the-moment interactions, and precise 3D object recognition. Using various machine learning techniques that are blended with the real environment through AR tools, a person can enjoy playing table tennis alone. 
+
+
+Table tennis is a very popular physical game all over the world. People need to play it in some fixed physical locations. Based on Augmented Reality (AR) technology, we provide a more interesting and convenient way for people to play table tennis game on smartphones. In this project, we will develop an Augmented Reality 3D Table Tennis game system on Android platform.
+
+The game is rendered when player aim the phones' camera at a specific marker. The player can view the virtual table tennis scenario through the screen of their smartphones. While on other end will be the opponent bot that will take decisions on Machine Learning Techniques, which will provide opponent the accuracy and unpredictability. The user swipes the finger on phone screen to control paddles to play table tennis game. 
